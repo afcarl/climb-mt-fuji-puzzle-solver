@@ -1,6 +1,10 @@
 # Climb Mt. Fuji Puzzle Solver
 
 A script that solves 	Karin & Jürg von Känel's sliding block puzzle called "Climb Mt. Fuji."  
+The script solves it in 34 moves, 6 fewer than the solution included with the game.
+
+---
+
 The puzzle is interesting because it has a second layer of wood that makes some moves impossible.
 
 ![The puzzle](http://www.woodpuzzles.com/Puzzles/ClimbMtFuji/ClimbMtFuji.640x640.png)
@@ -11,4 +15,4 @@ The goal is to get the climber from the bottom to the top as shown below.
 
 [Climb Mt. Fuji Solver.ipynb](Climb%20Mt.%20Fuji%20Solver.ipynb) 
 contains the code to generate the solution and [block.csv](block.csv) is a manually constructed CSV file
-specifying how the different peices can block each other from moving.
+specifying how the different pieces can block each other from moving.
