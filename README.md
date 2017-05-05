@@ -10,5 +10,5 @@ The goal is to get the climber from the bottom to the top as shown below.
 ![The goal](http://www.woodpuzzles.com/Puzzles/ClimbMtFuji/ClimbMtFuji_Goal.450x308.png)
 
 [Climb Mt. Fuji Solver.ipynb](Climb%20Mt.%20Fuji%20Solver.ipynb) 
-contains the code to generate the solution and [block.csv] is a manually constructed CSV file
+contains the code to generate the solution and [block.csv](block.csv) is a manually constructed CSV file
 specifying how the different peices can block each other from moving.
